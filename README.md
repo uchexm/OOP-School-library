@@ -30,7 +30,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Server</summary>
+<summary>Programming Language</summary>
   <ul>
     <li><a href="https://guides.rubyonrails.org/getting_started.html">Ruby</a></li>
   </ul>
