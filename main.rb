@@ -1,3 +1,4 @@
+require 'pry'
 require_relative 'app'
 
 def ask_user
@@ -21,8 +22,10 @@ end
 
 def loop_people(my_app)
   my_app.people.each_with_index do |person, index|
+    
     type = person.is_a?(Student) ? 'Student' : 'Teacher'
     puts "#{index}) [#{type}] Name: #{person.name} ID: #{person.id} Age: #{person.age}"
+    
   end
 end
 
