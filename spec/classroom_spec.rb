@@ -10,8 +10,8 @@ describe Classroom do
   end
 
   describe '#add_student' do
-    it 'Checks fo the add_student method' do
-      new_student = Student.new(25, 'Ronald')
+    it 'Checks for the add_student method' do
+      new_student = Student.new(25, 'Ronald', 1)
       new_classroom = Classroom.new('C1')
       new_classroom.add_student(new_student)
       expect(new_classroom.students).to include(new_student)
