@@ -12,7 +12,7 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [👥 Authors Uchechi Nwaka](#-authors-uchechi-nwaka)
+  - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -91,7 +91,7 @@ Install this project with:
 - > then irb(main):002:0> `make_person` (the method you want to test)
 - > follow the prompts
 
-## 👥 Authors <a name="authors">Uchechi Nwaka</a>
+## 👥 Authors <a name="authors"></a>
 
 - -👤 **Uchechi Nwaka**
 
