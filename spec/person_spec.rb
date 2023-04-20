@@ -25,4 +25,14 @@ describe Person do
     rental = book.add_rental(person, date)
     expect(rental).to be_instance_of Rental
   end
+
+  it 'Check for valid age' do
+    person = Person.new(16, 'James')
+    res = person.send(:of_age?)
+    if person.age >= 18
+      expect(res).to eql true
+    else
+      expect(res).to eql false
+    end
+  end
 end

@@ -26,4 +26,15 @@ describe Student do
   it 'checks for Student Age' do
     expect(@student.age).to eql(16)
   end
+
+  it 'checks for addition of a classroom instance' do
+    @classroom2 = Classroom.new('2C')
+    @student = Student.new(16, 'Shakir', @classroom2)
+    @student.add_classroom(@classroom2)
+    expect(@classroom2.students).to include(@student)
+  end
+
+  it 'checks for hokey function' do
+    expect(@student.play_hooky).to eql('¯\\_(ツ)_/¯')
+  end
 end
