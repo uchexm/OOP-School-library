@@ -12,7 +12,7 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [👥 Author Uchechi Nwaka](#-author-uchechi-nwaka)
+  - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -91,7 +91,7 @@ Install this project with:
 - > then irb(main):002:0> `make_person` (the method you want to test)
 - > follow the prompts
 
-## 👥 Author <a name="authors">Uchechi Nwaka</a>
+## 👥 Authors <a name="authors"></a>
 
 - -👤 **Uchechi Nwaka**
 
@@ -100,6 +100,12 @@ Install this project with:
   -- LinkedIn: [@nwakauc](https://www.linkedin.com/in/nwakauc/)
 
   -- Twiter [@nwakauc](https://twitter.com/Nwakauc)
+
+- -👤 **Shakir-Hussain**
+
+- GitHub: [@Shakir-Hussain12](https://github.com/Shakir-Hussain12)
+- Twitter: [@S_Hussain_99](https://twitter.com/S_Hussain_99)
+- LinkedIn: [shakir-hussain99](https://www.linkedin.com/in/shakir-hussain99/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
