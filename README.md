@@ -23,7 +23,7 @@
 
 # 📖 OOP School library <a name="about-project"></a>
 
-**OOP School library** is an application designed to maintain a comprehensive record of books available in a library and track their borrowing status. Additionally, the app enables users to add new students or teachers, as well as books, and keep a record of who has borrowed a particular book."
+**OOP School library** is a console application designed to maintain a comprehensive record of books available in a library and track their borrowing status. Additionally, the app enables users to add new students or teachers, as well as books, and keep a record of who has borrowed a particular book."
 
 ## 🛠 Built With <a name="built-with"></a>
 
