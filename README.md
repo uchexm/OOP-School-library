@@ -23,7 +23,15 @@
 
 # 📖 OOP School library <a name="about-project"></a>
 
-**OOP School library** is a console application designed to maintain a comprehensive record of books available in a library and track their borrowing status. Additionally, the app enables users to add new students or teachers, as well as books, and keep a record of who has borrowed a particular book."
+**OOP School library** is a console application that uses object-oriented programming (OOP) concepts to manage a school library. The application allows users to add, remove, and update books and borrowers, as well as track the borrowing status of books.
+The application uses OOP concepts to model the real-world objects of a school library, such as books, borrowers, and library staff. This makes the application more modular and easy to maintain.
+The application stores its data in files. This makes it easy to back up the data and transfer it to other computers.
+The application is a console application, which means that it is operated from the command line. This makes it easy to use the application on any computer that has a terminal emulator.
+OOP School Library is a useful tool for managing a school library. It is easy to use and can be customized to meet the specific needs of a library.
+Here are some additional details about the application:
+The application is written in Ruby.
+The application is open source and available on GitHub.
+The application is licensed under the MIT License.
 
 ## 🛠 Built With <a name="built-with"></a>
 
