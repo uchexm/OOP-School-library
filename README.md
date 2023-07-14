@@ -29,7 +29,7 @@ The application stores its data in files. This makes it easy to back up the data
 The application is a console application, which means that it is operated from the command line. This makes it easy to use the application on any computer that has a terminal emulator.
 OOP School Library is a useful tool for managing a school library. It is easy to use and can be customized to meet the specific needs of a library.
 Here are some additional details about the application:
-The application is written in Ruby.
+The application is written in the Ruby programming language.
 The application is open source and available on GitHub.
 The application is licensed under the MIT License.
 
