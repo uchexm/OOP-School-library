@@ -146,7 +146,7 @@ If you like this project kindly leave a ⭐
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the great resources shared.
+I would like to thank Microverse for the great resources used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
